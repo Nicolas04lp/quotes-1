@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.QuoteBox {
+  color: black;
+  border: solid 2px black;
+  border-radius: 7px;
+  padding: 50px;
+  background-color:Lavender;
+  border: none;
+}
+.btns{
+  display: flex;
+  justify-content: space-between;
+}
+.btns input {
+  color: white;
+  font-size: 1.5rem;
+  border: solid 2px black;
+  border-radius: 5px;
+  background:crimson;
+  padding: 5px 15px;
+  border: none;
+}
+.btns a {
+  color: white;
+  font-size: 1.5rem;
+  border: solid 2px black;
+  border-radius: 5px;
+  background: LightSeaGreen;
+  padding: 5px 15px;
+  text-decoration: none;
+  border: none;
+}
